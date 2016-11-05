@@ -1,2 +1,2 @@
 
-window.title;
+//alert(window.title);
